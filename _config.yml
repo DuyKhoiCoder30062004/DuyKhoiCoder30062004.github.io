@@ -1,23 +1,22 @@
 ### Site
-repository: ttasc/ttasc/tree/resume
+repository: DuyKhoiCoder30062004/DuyKhoiCoder30062004.github.io
 favicon: images/favicon.ico
 
 ### Content configuration version
 version: 2
 
 ### Personal info
-name: Nguyễn Lê Tiến Triển
-title: Seeking Internship or Employment
-email: nltt@tuta.io
+name: Đào Duy Anh Khôi
+title: Seeking Internship
+email: anhkhoi.bo@gmail.com
 # website:
 
 ### Dark Mode (true/false/never)
-darkmode: never
+darkmode: true
 
 ### Social links
-github_username:  ttasc
-stackoverflow_username: "29622488"
-linkedin_username: ttasc
+github_username:  duykhoicoder30062004
+linkedin_username: khoi-duy-a2812a24a
 # twitter_username:
 # dribbble_username:
 # facebook_username:
@@ -41,9 +40,9 @@ linkedin_username: ttasc
 about_title: About
 about_profile_image: images/profile.jpeg
 about_content: |
-  Hi, I'm Trien! 👋
+  Hi, I'm Khoi! 👋
 
-  A proactive undergraduate in Networking with a strong interest in backend programming and developing network-driven applications. Continuously expanding expertise in networking and cybersecurity through dedicated learning and personal projects. Actively seeking practical experiences to complement academic knowledge and accelerate growth. Currently pursuing internship or junior opportunities to apply my technical skills, contribute value, and develop professionally within a supportive environment.
+  A proactive undergraduate in Software Engineering with a strong interest in backend programming and developing desktop and framework-based applications. Continuously expanding expertise in Software Engineering and AI Learning through dedicated learning and personal projects. Actively seeking practical experiences to complement academic knowledge and accelerate growth. Currently pursuing internship to apply my technical skills, contribute value, and develop professionally within a supportive environment.
 
 ##############
 ### Resume ###
@@ -56,11 +55,11 @@ content:
     layout: list
     content:
       - layout: left
-        title: Information Technology Center of Saigon University
-        sub_title: Intern System Administrator
-        caption: October 2024 - April 2025
-        link: ttcntt.sgu.edu.vn
-        link_text: ttcntt.sgu.edu.vn
+        title: 
+        sub_title: 
+        caption: 
+        link: 
+        link_text: 
         quote: >
           IT Support / System Administrator Intern with hands-on experience in Linux server deployment, web hosting management, and system troubleshooting. Skilled in supporting IT infrastructure, managing web services, and assisting users in resolving technical issues. Familiar with Docker, WordPress, and basic backend development, with a strong foundation in both Windows and Linux environments.
         description: |
@@ -219,9 +218,8 @@ content:
       <img align="right" height="100" src="/ttasc/images/cooking.gif"/>
 
       - Cooking (really love cooking 🔥)
-      - Traveling
+      - Listening to music
       - Reading
-      - Linux Ricing
 
 ### Footer
 footer_show_references: true
