@@ -2,7 +2,6 @@
 body {
   font-family: Arial, sans-serif;
   margin: 0;
-  padding: 0;
   background: #f4f4f9;
   color: #333;
 }
@@ -11,17 +10,38 @@ body {
 header {
   background: #4CAF50;
   color: white;
-  padding: 20px;
+  padding: 40px;
   text-align: center;
 }
 
-/* Section */
+/* Navigation */
+nav {
+  background: #333;
+  display: flex;
+  justify-content: center;
+}
+nav a {
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+nav a:hover {
+  background: #575757;
+}
+
+/* Sections */
 section {
-  padding: 20px;
-  margin: 20px;
+  padding: 40px;
+  margin: 20px auto;
+  max-width: 800px;
   background: white;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* Projects */
+.project {
+  margin-bottom: 20px;
 }
 
 /* Footer */
@@ -29,5 +49,5 @@ footer {
   background: #333;
   color: white;
   text-align: center;
-  padding: 10px;
+  padding: 20px;
 }
