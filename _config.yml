@@ -107,7 +107,7 @@ content:
           Quiz management system for schools, teachers or simply want to organize a quiz test.
         description: |
           <div align="center">
-            <img align="center" width="70%" src="./prjimg/Quizz.png" />
+            <img align="center" width="70%" src="./prjimg/" />
           </div>
 
           I started this project as a way to learn about **Java** and **OOP**. In its early days, it was just a simple CLI software without a database. With the collaboration of my friends at university, I continued to develop it into a beautiful **GUI** application that can be used over a **LAN**. Although it is not yet production-ready due to existing bugs and incomplete features (*primarily within the GUI processing layer*), I successfully developed and solidified the core *backend* functionality, ensuring its smooth operation.
@@ -134,7 +134,7 @@ content:
           These are projects written in Go.
         description: |
           <div align="center">
-            <img align="center" width="70%" src="./prjimg/sgublogsite.png" />
+            <img align="center" width="70%" src="./" />
           </div>
 
           **[sgublogsite](https://github.com/ttasc/sgublogsite)**: During my internship as a System Administrator, alongside core responsibilities of deploying, monitoring, and maintaining requested services, I embarked on developing a school news website. Driven by a desire to learn, this project provided me with valuable experience in: web development process (outside my expertise), practical Go programming and library usage, and foundational web security principles. A website with simple technology for stability and security. However, due to limitations in frontend implementation, the project remains incomplete. I made the decision to discontinue development to focus on new projects better aligned with my core competencies and career goals.
