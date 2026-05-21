@@ -188,35 +188,25 @@ content:
   ###############
   - title: Skills
   layout: list
-  content:
-    - layout: right
-      sub_title: Technical Skills
-      description: |
-        - **Front-end (Web)**
-          - React.js, TypeScript, Tailwind CSS
-        - **Back-end (Web)**
-          - FastAPI (Python), Node.js
-        - **Desktop Development**
-          - C# (Winforms), Java (Swing), Python (Tkinter)
-        - **Database**
-          - PostgreSQL, Supabase, Microsoft SQL Server
-        - **AI & Productivity Tools**
-          - ChatGPT, Google AI Studio, Lovable, Microsoft Copilot
-        - **DevOps & Tools**
-          - Git/GitHub, Docker, Docker Compose, Vercel, Postman
-        - **Practices**
-          - Layered Architecture (N-Tier), Object-Oriented Programming (OOP), System Design & Architecture
-
-    - layout: right
-      sub_title: Soft Skills
-      description: |
-        - Team collaboration
-        - Self-learning
-        - Attention to detail
-        - Communication
-        - Public speaking
-        - Problem-solving
-
+    content:
+      - layout: right
+        sub_title: Soft Skills
+        caption: Problem-solving, communication and interpersonal skills. Effective time management and teamwork.
+        description: |
+          - **System Administration**
+            - Networking, Scripting, Monitoring, Active Directory, Cloud Computing
+          - **Hardware**
+            - System Building, Maintenance, Prototyping
+          - **Systems**
+            - Debian/Redhat/Arch - based Linux, Proxmox
+            - Windows 10/11, Windows Server
+          - **Software (Backend)**
+            - Docker, MySQL/MariaDB, Apache, NGINX
+          - **Software (Other)**
+            - Git, Vim, Make, Eclipse, Unix Tools,...
+          - **Languages**
+            - C, C++, Java, Go, Python
+            - Bash, Powershell, SQL
   ###############
   ### Hobbies ###
   ###############
