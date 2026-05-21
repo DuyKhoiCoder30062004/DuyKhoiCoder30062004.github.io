@@ -187,7 +187,7 @@ content:
   ### Skills ####
   ###############
   - title: Skills
-  layout: list
+    layout: list
     content:
       - layout: right
         sub_title: Soft Skills
@@ -207,6 +207,7 @@ content:
           - **Languages**
             - C, C++, Java, Go, Python
             - Bash, Powershell, SQL
+            
   ###############
   ### Hobbies ###
   ###############
