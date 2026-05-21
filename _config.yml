@@ -214,13 +214,12 @@ content:
   - title: When I’m Not At My Desk
     layout: text
     content: |
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-
-      <img align="right" height="100" src="/ttasc/images/cooking.gif"/>
-
-      - Cooking (really love cooking 🔥)
+      Alongside my interests in Software Engineering, some of my other interests and hobbies are:
+      - Chilling
       - Listening to music
       - Reading
+      - Learning musical instrument
+      - Learning new languages
 
 ### Footer
 footer_show_references: true
