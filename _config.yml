@@ -43,7 +43,8 @@ about_profile_image: images/profile.jpg
 about_content: |
   Hi, I'm Khoi! 👋
 
-  A proactive undergraduate in Software Engineering with a strong interest in backend programming ,developing desktop and framework-based applications. Continuously expanding expertise in Software Engineering and AI Learning through dedicated learning and personal projects. Actively seeking practical experiences to complement academic knowledge and accelerate growth. Currently pursuing internship to apply my technical skills, contribute value, and develop professionally within a supportive environment.
+  I'm a proactive Software Engineering undergraduate with a strong passion for Backend programming, Desktop development and Framework-based applications. I continuously expand my expertise in Software Engineering and AI through personal projects and dedicated learning.
+  Currently, I'm seeking an internship where I can apply my technical skills, contribute meaningful value and grow professionally within a supportive environment.
 
 ##############
 ### Resume ###
@@ -62,17 +63,12 @@ content:
         link: 
         link_text: 
         quote: >
-          IT Support / System Administrator Intern with hands-on experience in Linux server deployment, web hosting management, and system troubleshooting. Skilled in supporting IT infrastructure, managing web services, and assisting users in resolving technical issues. Familiar with Docker, WordPress, and basic backend development, with a strong foundation in both Windows and Linux environments.
+          IT.
         description: |
           <mark>Linux Server</mark> <mark>Docker</mark> <mark>Go/Bash/Python</mark> <mark>FastPanel</mark>
 
           - Managed and maintained Linux-based servers (Debian) to support internal systems and academic platforms
-          - Deployed and configured V-SAT examination system, ensuring stable and secure operation
-          - Administered web hosting environment using FastPanel, including domain, database, and user management
-          - Implemented and maintained WordPress websites using Docker, improving deployment consistency and scalability
-          - Built a lightweight internal web application using Golang and HTMX to display announcements and system information
-          - Performed system monitoring, basic troubleshooting, and service configuration on both Linux and Windows environments
-
+          
   #################
   ### Education ###
   #################
@@ -100,12 +96,12 @@ content:
       #############
       - layout: top-middle
         border: weak
-        title: Quizz
-        sub_title: Founder & Primary Backend Developer
-        link: github.com/ttasc/Quizz
+        title: Q
+        sub_title: Backend Developer
+        link: 
         # link_text: visit
         quote: >
-          Quiz management system for schools, teachers or simply want to organize a quiz test.
+          Q.
         description: |
           <div align="center">
             <img align="center" width="70%" src="./prjimg/" />
