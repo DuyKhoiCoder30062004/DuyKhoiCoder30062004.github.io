@@ -49,6 +49,7 @@ about_content: |
 ##############
 ### Resume ###
 ##############
+content:
 #################
 ### Education ###
 #################
@@ -64,7 +65,6 @@ about_content: |
         description: |
           During my time at SGU I learnt most of key skills such as teamworking and meeting project deadlines, ensuring timely delivery. I truly enjoyed my time as a university student, where the campus culture fostered a healthy work-life balance.
 
-content:
   #######################
   ### Work Experience ###
   #######################
