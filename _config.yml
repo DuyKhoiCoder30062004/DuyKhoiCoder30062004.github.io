@@ -49,10 +49,26 @@ about_content: |
 ##############
 ### Resume ###
 ##############
+#################
+### Education ###
+#################
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: Saigon University (SGU)
+        caption: 2022 - Ongoing
+        sub_title: "BSc Information Technology<br>Specialization: Software Engineering"
+        # quote: >
+        #
+        description: |
+          During my time at SGU I learnt most of key skills such as teamworking and meeting project deadlines, ensuring timely delivery. I truly enjoyed my time as a university student, where the campus culture fostered a healthy work-life balance.
+
 content:
   #######################
   ### Work Experience ###
   #######################
+  #projects: bằng trang, mini market, python, oop dien tu - java, java khach hotel.
   - title: Work Experience
     layout: list
     content:
@@ -69,21 +85,6 @@ content:
 
           - M
           
-  #################
-  ### Education ###
-  #################
-  - title: Education
-    layout: list
-    content:
-      - layout: left
-        title: Saigon University (SGU)
-        caption: 2022 - Ongoing
-        sub_title: "BSc Information Technology<br>Specialization: Software Engineering"
-        # quote: >
-        #
-        description: |
-          During my time at SGU I learnt most of key skills such as teamworking and meeting project deadlines, ensuring timely delivery. I truly enjoyed my time as a university student, where the campus culture fostered a healthy work-life balance.
-
   ################
   ### Projects ###
   ################
