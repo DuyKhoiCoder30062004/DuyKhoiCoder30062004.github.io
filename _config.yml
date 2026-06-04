@@ -57,11 +57,11 @@ content:
     layout: list
     content:
       - layout: left
-        title: 
-        sub_title: 
-        caption: 
-        link: 
-        link_text: 
+        title: ""
+        sub_title: ""
+        caption: ""
+        link: ""
+        link_text: "" 
         quote: >
           IT.
         description: |
@@ -78,7 +78,7 @@ content:
       - layout: left
         title: Saigon University (SGU)
         caption: 2022 - Ongoing
-        sub_title: BSc Information Technology<br>Specialization: Software Engineering
+        sub_title: "BSc Information Technology<br>Specialization: Software Engineering"
         # quote: >
         #
         description: |
@@ -216,7 +216,7 @@ content:
       - Listening to music 
       - Reading
       - Learning musical instrument
-      - Learning new languages
+      - Learning new languages (Japanese, English, Chinese)
 
 ### Footer
 footer_show_references: true
