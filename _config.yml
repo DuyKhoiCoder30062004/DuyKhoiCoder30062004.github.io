@@ -76,16 +76,16 @@ content:
         title: Bằng Trang Auto Đà Lạt Website
         caption: Sept 2025 – Nov 2025
         sub_title: Freelance Project | Fullstack Developer (UI, Backend, Deployment)
-        link: https://yourwebsite.com   # replace with actual link
+        link: http://bangtrangauto.com/   # replace with actual link
         link_text: Website
         quote: >
           Responsive auto business website with admin dashboard and SEO optimization.
         description: |
           - Team size: 1  
-          - Built responsive website using **React.js**, **Tailwind CSS**, **Shadcn**, **Supabase**, **Cloudinary**, **Lovable AI Agent**  
+          - Built responsive website using <mark>React.js</mark>, <mark>Tailwind CSS</mark>, <mark>Shadcn</mark>, <mark>Supabase</mark>, <mark>Cloudinary</mark>, <mark>Lovable AI Agent</mark>  
           - Developed Admin Dashboard for car inventory and revenue visualization  
-          - Implemented login/register, car listings, filtering, detail pages, Google Maps integration, customer inquiry forms  
-          - Deployed on **Vercel** with SEO optimization, improving online presence and customer engagement
+          - Implemented <mark>Authentication</mark>, <mark>Car Listings</mark>, <mark>Filtering</mark>, <mark>Detail Pages</mark>, <mark>Google Maps Integration</mark>, <mark>Customer Inquiry Forms</mark>  
+          - Deployed on <mark>Vercel</mark> with <mark>SEO Optimization</mark>, improving online presence and customer engagement
           
   ################
   ### Projects ###
@@ -98,7 +98,7 @@ content:
         title: OOP Console-based Electronic Store Management System
         caption: Mar 2026 – Now
         sub_title: Academic Project | Backend Developer
-        link: https://github.com/yourrepo   # replace with actual repo
+        link: https://github.com/DuyKhoiCoder30062004/OOP-Dien-Tu   # replace with actual repo
         link_text: GitHub
         quote: >
           Console-based store management system with UML-driven OOP design.
@@ -114,7 +114,7 @@ content:
         title: Mini Market Management Desktop Application
         caption: Sept 2025 – Now
         sub_title: Academic Project | Fullstack Developer
-        link: https://github.com/yourrepo
+        link: https://github.com/DuyKhoiCoder30062004/C--Mini-Market
         link_text: GitHub
         quote: >
           Role-based desktop application for market management.
@@ -132,7 +132,7 @@ content:
         title: Hotel Management Desktop Application
         caption: Dec 2025 – Mar 2026
         sub_title: Academic Project | Fullstack Developer
-        link: https://github.com/yourrepo
+        link: https://github.com/DuyKhoiCoder30062004/DoAn_Java_HK2_2026_World_Cup
         link_text: GitHub
         quote: >
             Desktop hotel management system with UML-driven design.
@@ -149,7 +149,7 @@ content:
         title: Banking Management Desktop Application
         caption: Feb 2025 – May 2025
         sub_title: Academic Project | Fullstack Developer
-        link: https://github.com/yourrepo
+        link: https://github.com/DuyKhoiCoder30062004/Python-PyGroup3
         link_text: GitHub
         quote: >
           Banking system with AI facial recognition for secure transactions.
