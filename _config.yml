@@ -91,78 +91,76 @@ content:
   ### Projects ###
   ################
   - title: Projects
-    layout: list
-    content:
+  layout: list
+  content:
+    - layout: top-middle
+      border: weak
+      title: OOP Console-based Electronic Store Management System
+      caption: Mar 2026 – Now
+      sub_title: Academic Project | Backend Developer
+      link: https://github.com/yourrepo   # replace with actual repo
+      link_text: GitHub
+      quote: >
+        Console-based store management system with UML-driven OOP design.
+      description: |
+        - Team size: 4  
+        - Designed UML Class Diagram to model system entities and dependencies  
+        - Built modules: menu navigation, file I/O handling, CRUD operations (add, edit, delete, search)  
+        - Implemented maintainable OOP structure with dependency relationships  
+        - Developed with **Java**
 
-      #############
-      ### Quizz ###
-      #############
-      - layout: top-middle
-        border: weak
-        title: Q
-        sub_title: Backend Developer
-        link: 
-        # link_text: visit
-        quote: >
-          Q.
-        description: |
-          <div align="center">
-            <img align="center" width="70%" src="./prjimg/" />
-          </div>
+    - layout: top-middle
+      border: weak
+      title: Mini Market Management Desktop Application
+      caption: Sept 2025 – Now
+      sub_title: Academic Project | Fullstack Developer
+      link: https://github.com/yourrepo
+      link_text: GitHub
+      quote: >
+        Role-based desktop application for market management.
+      description: |
+        - Team size: 2  
+        - Designed ERD and implemented role-based access control (Admin, Employee)  
+        - Database schema in **Microsoft SQL Server**  
+        - Implemented **Three-layer Architecture**  
+        - Core modules: login/register, product/order management, supplier/customer modules, statistics, system history  
+        - Added password recovery via email and Dark/Light Mode toggle  
+        - Developed with **C#**, **WinForms**, **.NET 9.0 & .NET Framework 4.8**
 
-          I .
+    - layout: top-middle
+      border: weak
+      title: Hotel Management Desktop Application
+      caption: Dec 2025 – Mar 2026
+      sub_title: Academic Project | Fullstack Developer
+      link: https://github.com/yourrepo
+      link_text: GitHub
+      quote: >
+        Desktop hotel management system with UML-driven design.
+      description: |
+        - Team size: 4  
+        - Designed UML Class Diagram to model system entities and dependencies  
+        - Database schema in **Microsoft SQL Server**  
+        - Implemented **Three-layer Architecture**  
+        - Built Admin dashboard module  
+        - Developed with **Java**, **Java Swing**
 
-          <mark>JavaFX</mark> <mark>Socket</mark> <mark>Multithreading</mark> <mark>MariaDB/MySQL</mark> <mark>Networking</mark> <mark>Excel Processing</mark>
-
-      ###################
-      ### Go Projects ###
-      ###################
-      - layout: top-middle
-        border: weak
-        title: Go Projects
-        sub_title: Primary Developer
-        # link: github.com/ttasc
-        # link_text: visit
-        additional_links:
-          - title:  sgublogsite
-            icon:   fab fa-github
-            url:    github.com/ttasc/sgublogsite
-          - title:  craftt
-            icon:   fab fa-github
-            url:    github.com/ttasc/craftt
-        quote: >
-          T.
-        description: |
-          <div align="center">
-            <img align="center" width="70%" src="./" />
-          </div>
-
-          **[s](https://github.com)**: D.
-            - <mark>Go</mark> <mark>Chi</mark> <mark>HTMX</mark> <mark>MariaDB/MySQL</mark>
-
-          <br/>
-
-          <div align="center">
-            <img align="center" width="70%" src="./prjimg/craftt.png" />
-          </div>
-          **[c](https://github.com)** w.
-            - <mark>Go</mark> <mark>Process handling</mark> <mark>WebSocket</mark> <mark>TLS</mark>
-
-      #############
-      ### anett ###
-      #############
-      - layout: top-middle
-        border: weak
-        title: anett
-        sub_title: Primary Developer
-        link: github.com/ttasc/anett
-        # link_text: visit
-        quote: >
-          Dockerized Local Service Deployment Toolkit
-        description: |
-          T.
-
-          <mark>Linux Server</mark> <mark>Docker</mark> <mark>Shell</mark> <mark>TUI</mark> <mark>Networking</mark>
+    - layout: top-middle
+      border: weak
+      title: Banking Management Desktop Application
+      caption: Feb 2025 – May 2025
+      sub_title: Academic Project | Fullstack Developer
+      link: https://github.com/yourrepo
+      link_text: GitHub
+      quote: >
+        Banking system with AI facial recognition for secure transactions.
+      description: |
+        - Team size: 4  
+        - Built modules: login, main bank interface, transaction history, money transfer, settings, services  
+        - Database schema in **Microsoft SQL Server**  
+        - Implemented transaction functionality with AI facial recognition for transactions ≥ 10M VND  
+        - Integrated **cv2 camera** and **Haarcascade** for face detection  
+        - Built training pipeline with real face dataset, monitored overfitting  
+        - Developed with **Python**, **Tkinter**
 
       ################
       ### Dotfiles ###
