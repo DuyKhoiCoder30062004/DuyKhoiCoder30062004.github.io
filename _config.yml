@@ -104,10 +104,10 @@ content:
           Console-based store management system with UML-driven OOP design.
         description: |
           - Team size: 4  
-          - Designed UML Class Diagram to model system entities and dependencies  
-          - Built modules: menu navigation, file I/O handling, CRUD operations (add, edit, delete, search)  
-          - Implemented maintainable OOP structure with dependency relationships  
-          - Developed with **Java**
+          - Designed <mark>UML Class Diagram</mark> to model system entities and dependencies  
+          - Built modules: <mark>Menu Navigation</mark>, <mark>File I/O Handling</mark>, <mark>CRUD Operations</mark>  
+          - Implemented maintainable <mark>OOP Structure</mark> with dependency relationships  
+          - Developed with <mark>Java</mark>
 
       - layout: top-middle
         border: weak
@@ -120,12 +120,12 @@ content:
           Role-based desktop application for market management.
         description: |
           - Team size: 2  
-          - Designed ERD and implemented role-based access control (Admin, Employee)  
-          - Database schema in **Microsoft SQL Server**  
-          - Implemented **Three-layer Architecture**  
-          - Core modules: login/register, product/order management, supplier/customer modules, statistics, system history  
-          - Added password recovery via email and Dark/Light Mode toggle  
-          - Developed with **C#**, **WinForms**, **.NET 9.0 & .NET Framework 4.8**
+          - Designed <mark>ERD</mark> and implemented <mark>Role-based Access Control</mark> (Admin, Employee)  
+          - Database schema in <mark>Microsoft SQL Server</mark>  
+          - Implemented <mark>Three-layer Architecture</mark>  
+          - Core modules: <mark>Authentication</mark>, <mark>Product/Order Management</mark>, <mark>Supplier/Customer Modules</mark>, <mark>Statistics</mark>, <mark>System History</mark>  
+          - Added <mark>Password Recovery via Email</mark> and <mark>Dark/Light Mode Toggle</mark>  
+          - Developed with <mark>C#</mark>, <mark>WinForms</mark>, <mark>.NET 9.0</mark> & <mark>.NET Framework 4.8</mark>
 
       - layout: top-middle
         border: weak
@@ -138,11 +138,11 @@ content:
             Desktop hotel management system with UML-driven design.
         description: |
             - Team size: 4  
-            - Designed UML Class Diagram to model system entities and dependencies  
-            - Database schema in **Microsoft SQL Server**  
-            - Implemented **Three-layer Architecture**  
-            - Built Admin dashboard module  
-            - Developed with **Java**, **Java Swing**
+            - Designed <mark>UML Class Diagram</mark> to model system entities and dependencies  
+            - Database schema in <mark>Microsoft SQL Server</mark>  
+            - Implemented <mark>Three-layer Architecture</mark>  
+            - Built <mark>Admin Dashboard</mark> module  
+            - Developed with <mark>Java</mark>, <mark>Java Swing</mark>
 
       - layout: top-middle
         border: weak
@@ -155,12 +155,12 @@ content:
           Banking system with AI facial recognition for secure transactions.
         description: |
           - Team size: 4  
-          - Built modules: login, main bank interface, transaction history, money transfer, settings, services  
-          - Database schema in **Microsoft SQL Server**  
-          - Implemented transaction functionality with AI facial recognition for transactions ≥ 10M VND  
-          - Integrated **cv2 camera** and **Haarcascade** for face detection  
-          - Built training pipeline with real face dataset, monitored overfitting  
-          - Developed with **Python**, **Tkinter**
+          - Built modules: <mark>Authentication</mark>, <mark>Main Bank Interface</mark>, <mark>Transaction History</mark>, <mark>Money Transfer</mark>, <mark>Settings</mark>, <mark>Other Services</mark>  
+          - Database schema in <mark>Microsoft SQL Server</mark>  
+          - Implemented <mark>AI Facial Recognition</mark> for transactions ≥ 10M VND  
+          - Integrated <mark>cv2 Camera</mark> and <mark>Haarcascade</mark> for face detection  
+          - Built <mark>Training Pipeline</mark> with real face dataset, monitored overfitting  
+          - Developed with <mark>Python</mark>, <mark>Tkinter</mark>
 
       ################
       ### Dotfiles ###
