@@ -159,7 +159,7 @@ content:
           - Database schema in <mark>Microsoft SQL Server</mark>  
           - Implemented <mark>AI Facial Recognition</mark> for transactions ≥ 10M VND  
           - Integrated <mark>cv2 Camera</mark> and <mark>Haarcascade</mark> for face detection  
-          - Built <mark>Training Pipeline</mark> with real face dataset, monitored overfitting  
+          - Built <mark>Training Pipeline</mark> with real face dataset, still monitoring overfitting  
           - Developed with <mark>Python</mark>, <mark>Tkinter</mark>
 
   ###############
