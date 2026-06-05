@@ -136,7 +136,7 @@ content:
         link_text: GitHub
         quote: >
             Desktop hotel management system with UML-driven design.
-          description: |
+        description: |
             - Team size: 4  
             - Designed UML Class Diagram to model system entities and dependencies  
             - Database schema in **Microsoft SQL Server**  
