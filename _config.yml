@@ -70,20 +70,22 @@ content:
   #######################
   #projects: bằng trang, mini market, python, oop dien tu - java, java khach hotel.
   - title: Work Experience
-    layout: list
-    content:
-      - layout: left
-        title: ""
-        sub_title: ""
-        caption: ""
-        link: ""
-        link_text: "" 
-        quote: >
-          IT.
-        description: |
-          <mark>Linux Server</mark> <mark>Docker</mark> <mark>Go/Bash/Python</mark> <mark>FastPanel</mark>
-
-          - M
+  layout: list
+  content:
+    - layout: left
+      title: Bằng Trang Auto Đà Lạt Website
+      caption: Sept 2025 – Nov 2025
+      sub_title: Freelance Project | Fullstack Developer (UI, Backend, Deployment)
+      link: https://yourwebsite.com   # replace with actual link
+      link_text: Website
+      quote: >
+        Responsive auto business website with admin dashboard and SEO optimization.
+      description: |
+        - Team size: 1  
+        - Built responsive website using **React.js**, **Tailwind CSS**, **Shadcn**, **Supabase**, **Cloudinary**, **Lovable AI Agent**  
+        - Developed Admin Dashboard for car inventory and revenue visualization  
+        - Implemented login/register, car listings, filtering, detail pages, Google Maps integration, customer inquiry forms  
+        - Deployed on **Vercel** with SEO optimization, improving online presence and customer engagement
           
   ################
   ### Projects ###
