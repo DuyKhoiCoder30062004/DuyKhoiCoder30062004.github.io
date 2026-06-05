@@ -70,97 +70,97 @@ content:
   #######################
   #projects: bằng trang, mini market, python, oop dien tu - java, java khach hotel.
   - title: Work Experience
-  layout: list
-  content:
-    - layout: left
-      title: Bằng Trang Auto Đà Lạt Website
-      caption: Sept 2025 – Nov 2025
-      sub_title: Freelance Project | Fullstack Developer (UI, Backend, Deployment)
-      link: https://yourwebsite.com   # replace with actual link
-      link_text: Website
-      quote: >
-        Responsive auto business website with admin dashboard and SEO optimization.
-      description: |
-        - Team size: 1  
-        - Built responsive website using **React.js**, **Tailwind CSS**, **Shadcn**, **Supabase**, **Cloudinary**, **Lovable AI Agent**  
-        - Developed Admin Dashboard for car inventory and revenue visualization  
-        - Implemented login/register, car listings, filtering, detail pages, Google Maps integration, customer inquiry forms  
-        - Deployed on **Vercel** with SEO optimization, improving online presence and customer engagement
+    layout: list
+    content:
+      - layout: left
+        title: Bằng Trang Auto Đà Lạt Website
+        caption: Sept 2025 – Nov 2025
+        sub_title: Freelance Project | Fullstack Developer (UI, Backend, Deployment)
+        link: https://yourwebsite.com   # replace with actual link
+        link_text: Website
+        quote: >
+          Responsive auto business website with admin dashboard and SEO optimization.
+        description: |
+          - Team size: 1  
+          - Built responsive website using **React.js**, **Tailwind CSS**, **Shadcn**, **Supabase**, **Cloudinary**, **Lovable AI Agent**  
+          - Developed Admin Dashboard for car inventory and revenue visualization  
+          - Implemented login/register, car listings, filtering, detail pages, Google Maps integration, customer inquiry forms  
+          - Deployed on **Vercel** with SEO optimization, improving online presence and customer engagement
           
   ################
   ### Projects ###
   ################
   - title: Projects
-  layout: list
-  content:
-    - layout: top-middle
-      border: weak
-      title: OOP Console-based Electronic Store Management System
-      caption: Mar 2026 – Now
-      sub_title: Academic Project | Backend Developer
-      link: https://github.com/yourrepo   # replace with actual repo
-      link_text: GitHub
-      quote: >
-        Console-based store management system with UML-driven OOP design.
-      description: |
-        - Team size: 4  
-        - Designed UML Class Diagram to model system entities and dependencies  
-        - Built modules: menu navigation, file I/O handling, CRUD operations (add, edit, delete, search)  
-        - Implemented maintainable OOP structure with dependency relationships  
-        - Developed with **Java**
+    layout: list
+    content:
+      - layout: top-middle
+        border: weak
+        title: OOP Console-based Electronic Store Management System
+        caption: Mar 2026 – Now
+        sub_title: Academic Project | Backend Developer
+        link: https://github.com/yourrepo   # replace with actual repo
+        link_text: GitHub
+        quote: >
+          Console-based store management system with UML-driven OOP design.
+        description: |
+          - Team size: 4  
+          - Designed UML Class Diagram to model system entities and dependencies  
+          - Built modules: menu navigation, file I/O handling, CRUD operations (add, edit, delete, search)  
+          - Implemented maintainable OOP structure with dependency relationships  
+          - Developed with **Java**
 
-    - layout: top-middle
-      border: weak
-      title: Mini Market Management Desktop Application
-      caption: Sept 2025 – Now
-      sub_title: Academic Project | Fullstack Developer
-      link: https://github.com/yourrepo
-      link_text: GitHub
-      quote: >
-        Role-based desktop application for market management.
-      description: |
-        - Team size: 2  
-        - Designed ERD and implemented role-based access control (Admin, Employee)  
-        - Database schema in **Microsoft SQL Server**  
-        - Implemented **Three-layer Architecture**  
-        - Core modules: login/register, product/order management, supplier/customer modules, statistics, system history  
-        - Added password recovery via email and Dark/Light Mode toggle  
-        - Developed with **C#**, **WinForms**, **.NET 9.0 & .NET Framework 4.8**
+      - layout: top-middle
+        border: weak
+        title: Mini Market Management Desktop Application
+        caption: Sept 2025 – Now
+        sub_title: Academic Project | Fullstack Developer
+        link: https://github.com/yourrepo
+        link_text: GitHub
+        quote: >
+          Role-based desktop application for market management.
+        description: |
+          - Team size: 2  
+          - Designed ERD and implemented role-based access control (Admin, Employee)  
+          - Database schema in **Microsoft SQL Server**  
+          - Implemented **Three-layer Architecture**  
+          - Core modules: login/register, product/order management, supplier/customer modules, statistics, system history  
+          - Added password recovery via email and Dark/Light Mode toggle  
+          - Developed with **C#**, **WinForms**, **.NET 9.0 & .NET Framework 4.8**
 
-    - layout: top-middle
-      border: weak
-      title: Hotel Management Desktop Application
-      caption: Dec 2025 – Mar 2026
-      sub_title: Academic Project | Fullstack Developer
-      link: https://github.com/yourrepo
-      link_text: GitHub
-      quote: >
-        Desktop hotel management system with UML-driven design.
-      description: |
-        - Team size: 4  
-        - Designed UML Class Diagram to model system entities and dependencies  
-        - Database schema in **Microsoft SQL Server**  
-        - Implemented **Three-layer Architecture**  
-        - Built Admin dashboard module  
-        - Developed with **Java**, **Java Swing**
+      - layout: top-middle
+        border: weak
+        title: Hotel Management Desktop Application
+        caption: Dec 2025 – Mar 2026
+        sub_title: Academic Project | Fullstack Developer
+        link: https://github.com/yourrepo
+        link_text: GitHub
+        quote: >
+            Desktop hotel management system with UML-driven design.
+          description: |
+            - Team size: 4  
+            - Designed UML Class Diagram to model system entities and dependencies  
+            - Database schema in **Microsoft SQL Server**  
+            - Implemented **Three-layer Architecture**  
+            - Built Admin dashboard module  
+            - Developed with **Java**, **Java Swing**
 
-    - layout: top-middle
-      border: weak
-      title: Banking Management Desktop Application
-      caption: Feb 2025 – May 2025
-      sub_title: Academic Project | Fullstack Developer
-      link: https://github.com/yourrepo
-      link_text: GitHub
-      quote: >
-        Banking system with AI facial recognition for secure transactions.
-      description: |
-        - Team size: 4  
-        - Built modules: login, main bank interface, transaction history, money transfer, settings, services  
-        - Database schema in **Microsoft SQL Server**  
-        - Implemented transaction functionality with AI facial recognition for transactions ≥ 10M VND  
-        - Integrated **cv2 camera** and **Haarcascade** for face detection  
-        - Built training pipeline with real face dataset, monitored overfitting  
-        - Developed with **Python**, **Tkinter**
+      - layout: top-middle
+        border: weak
+        title: Banking Management Desktop Application
+        caption: Feb 2025 – May 2025
+        sub_title: Academic Project | Fullstack Developer
+        link: https://github.com/yourrepo
+        link_text: GitHub
+        quote: >
+          Banking system with AI facial recognition for secure transactions.
+        description: |
+          - Team size: 4  
+          - Built modules: login, main bank interface, transaction history, money transfer, settings, services  
+          - Database schema in **Microsoft SQL Server**  
+          - Implemented transaction functionality with AI facial recognition for transactions ≥ 10M VND  
+          - Integrated **cv2 camera** and **Haarcascade** for face detection  
+          - Built training pipeline with real face dataset, monitored overfitting  
+          - Developed with **Python**, **Tkinter**
 
       ################
       ### Dotfiles ###
